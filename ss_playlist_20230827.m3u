@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Globo MG
+http://168.205.87.198:8555/live/1368/123456/70.ts
+#EXTINF:0 type="stream" channelId="-1", Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+#EXTINF:0 type="stream" channelId="-1", REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sbt Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sbt PI
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sbt PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
+#EXTINF:0 type="stream" channelId="2433", Sbt
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2433", Sbt Jornal Recife
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1833053039.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (Pampa)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (Tocantins)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (Tocantins)2
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (SP)
+http://168.205.87.198:8555/live/antony/1234/102.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (PI)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv (TO)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
+#EXTINF:0 type="stream" channelId="2434", Band
+http://168.205.87.198:8555/live/antony/1234/19.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2009673231.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1587198872.m3u8
+#EXTINF:0 type="stream" channelId="-1", CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Vida (2)
+http://168.205.87.198:8555/live/antony/1234/103.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Vida (720p)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Vida (720p) 
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sec 21
+http://168.205.87.198:8555/live/1368/123456/106.ts
+#EXTINF:0 type="stream" channelId="2448", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cancao Nova
+http://168.205.87.198:8555/live/antony/1234/25.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cancao Nova (2)
+http://168.205.87.198:8555/live/1368/123456/25.ts
+#EXTINF:0 type="stream" channelId="-1", Rede Minas 
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News 2
+https://stream.ads.ottera.tv/cl/230827cjlso1p9ffqgs2lddemg/854x480_1355200_2_f.m3u8
+#EXTINF:0 type="stream" channelId="-1", ULB Tv
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w479169398.m3u8
+#EXTINF:0 type="stream" channelId="-1", My Time Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Channel Network (series/desenhos/classicos)
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1911570724.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", WEb tv Agua Boa (Tc action)
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", tv jornal do nordeste (filmes 24h)
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w2109201572.m3u8
+#EXTINF:0 type="stream" channelId="-1", tv Carioca.net (filmes/variedades)
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w1866390381.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1", tv Jundiai (filmes/desenhos/variedades)
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1110558545.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Rede Sul (filmes/series/variedades)
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w1122198052.m3u8
+#EXTINF:0 type="stream" channelId="-1", Blits TV (filmes/series/variedades)
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w1943036597.m3u8
+#EXTINF:0 type="stream" channelId="-1", Channel 1 (filmes)
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Clouding (variedade,filmes,series,classicos)
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1819427008.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
+#EXTINF:0 type="stream" channelId="-1", GLN TV (filmes\\,desenhos\\, classicos)
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1829184217.m3u8
+#EXTINF:0 type="stream" channelId="-1", Runtime
+https://stream.ads.ottera.tv/cl/230827cjlsmkn9kmt855tcikc0/854x480_1355200_2_f.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cine Espanto
+https://stream.ads.ottera.tv/cl/230827cjlsnduptu7c4jggvr9g/854x480_1355200_2_f.m3u8
+#EXTINF:0 type="stream" channelId="-1", Runtime Acao
+https://stream.ads.ottera.tv/cl/230827cjlsoje3pdfn2fucno90/854x480_1355200_2_f.m3u8
+#EXTINF:0 type="stream" channelId="-1", Runtime Comedia
+https://stream.ads.ottera.tv/cl/230827cjlt5elnk7tjtpfpu0hg/854x480_1355200_2_f.m3u8
+#EXTINF:0 type="stream" channelId="-1", Runtime Comedia
+https://stream.ads.ottera.tv/cl/230827cjlt6mg1sj40u66mlv8g/854x480_1355200_2_f.m3u8
+#EXTINF:0 type="stream" channelId="-1", Runtime Crimes
+https://stream.ads.ottera.tv/cl/230827cjlt63ggv6tmog3kakt0/854x480_1355200_2_f.m3u8?i=475_4864
+#EXTINF:0 type="stream" channelId="-1", Runtime Familia
+https://stream.ads.ottera.tv/cl/230827cjltrndm3b6ejgtnjes0/854x480_1355200_2_f.m3u8?i=475_5589
+#EXTINF:0 type="stream" channelId="-1", J Sid
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w821223866.m3u8
+#EXTINF:0 type="stream" channelId="-1", Web Tv Classicos
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Web Tv Classicos 2
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede UTV Brasil (series/ filmes/classicos/variedades)
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/chunklist_w1168643228.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tela Viva (series/ filmes/variedades)
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
+#EXTINF:0 type="stream" channelId="-1", tv Japi (Variedades e Filmes Antigos)
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w376009502.m3u8
+#EXTINF:0 type="stream" channelId="-1", Classique tv Western (Faroeste)
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:0 type="stream" channelId="-1", Classique tv (filmes classicos)
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Progresso (filmes classicos/ faroeste)
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w2114138344.m3u8
+#EXTINF:0 type="stream" channelId="-1", tv Clube Web (Filmes Antigos\\, variedades)
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vintage tv (filmes e musicas antigas)
+https://video01.kshost.com.br/rogerio7271/rogerio7271/chunklist_w1219382414.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV mais Brasil (filmes classicos)
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w405700193.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Chespirito
+http://168.205.87.198:8555/live/1368/123456/159.ts
+#EXTINF:0 type="stream" channelId="-1", tv Os Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", AW TV (filmes/variedades)
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", Retro Music TV (360p)
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tastemade Brasil (1080p)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
